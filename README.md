@@ -1,0 +1,2 @@
+# GOAL
+Multi-agent game
